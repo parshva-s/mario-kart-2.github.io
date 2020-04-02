@@ -1,0 +1,49 @@
+body {
+    padding-top: 150px;
+    background-image: url('Media/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div {
+    padding: 50px 50px;
+    width: 1150px;
+    height: 500px;
+    background: rgb(255,255,255);
+    margin: auto;}
+span {
+    border: 1.5px solid black;
+
+}
+figure{
+    width: 20%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+figcaption {
+    text-align: center;
+}
+output {
+    padding: 0px 88px;
+    width: 20px;
+}
+h2 {
+    text-align: center;
+}
+hr {
+    width: 1050px;
+    border: 2px solid black;
+}
+p {
+    font-size: 20px;
+}
+button {
+    font-size: large;
+    font-variant: small-caps;
+    margin-bottom: 50px;
+    margin-right: 20px;
+}
+.center {
+    margin: auto;
+}
